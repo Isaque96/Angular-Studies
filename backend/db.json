@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Macbook Pro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20+",
+      "price": 5000
+    },
+    {
+      "name": "Produto Teste",
+      "price": 125.98,
+      "id": 4
+    },
+    {
+      "name": "Samsung Dobrável",
+      "price": "3629.99",
+      "id": 5
+    },
+    {
+      "name": "Geladeira Electrolux",
+      "price": "1254.85",
+      "id": 6
+    },
+    {
+      "name": "Notebook",
+      "price": "2500.97",
+      "id": 7
+    },
+    {
+      "name": "Monitor",
+      "price": "545.50",
+      "id": 8
+    }
+  ]
+}
